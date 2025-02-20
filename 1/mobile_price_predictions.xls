@@ -1,0 +1,1001 @@
+ID,Predicted_Price_Range,Price_Category
+1,2,High Cost
+2,3,Very High Cost
+3,2,High Cost
+4,3,Very High Cost
+5,1,Medium Cost
+6,3,Very High Cost
+7,3,Very High Cost
+8,1,Medium Cost
+9,3,Very High Cost
+10,0,Low Cost
+11,3,Very High Cost
+12,3,Very High Cost
+13,0,Low Cost
+14,0,Low Cost
+15,2,High Cost
+16,0,Low Cost
+17,2,High Cost
+18,1,Medium Cost
+19,3,Very High Cost
+20,1,Medium Cost
+21,1,Medium Cost
+22,3,Very High Cost
+23,1,Medium Cost
+24,1,Medium Cost
+25,3,Very High Cost
+26,0,Low Cost
+27,2,High Cost
+28,0,Low Cost
+29,2,High Cost
+30,0,Low Cost
+31,2,High Cost
+32,0,Low Cost
+33,3,Very High Cost
+34,0,Low Cost
+35,1,Medium Cost
+36,1,Medium Cost
+37,3,Very High Cost
+38,2,High Cost
+39,2,High Cost
+40,1,Medium Cost
+41,1,Medium Cost
+42,2,High Cost
+43,0,Low Cost
+44,0,Low Cost
+45,0,Low Cost
+46,1,Medium Cost
+47,0,Low Cost
+48,3,Very High Cost
+49,1,Medium Cost
+50,2,High Cost
+51,1,Medium Cost
+52,0,Low Cost
+53,2,High Cost
+54,0,Low Cost
+55,3,Very High Cost
+56,1,Medium Cost
+57,3,Very High Cost
+58,1,Medium Cost
+59,0,Low Cost
+60,3,Very High Cost
+61,3,Very High Cost
+62,2,High Cost
+63,0,Low Cost
+64,1,Medium Cost
+65,1,Medium Cost
+66,1,Medium Cost
+67,2,High Cost
+68,3,Very High Cost
+69,1,Medium Cost
+70,2,High Cost
+71,1,Medium Cost
+72,2,High Cost
+73,2,High Cost
+74,3,Very High Cost
+75,3,Very High Cost
+76,0,Low Cost
+77,2,High Cost
+78,0,Low Cost
+79,2,High Cost
+80,3,Very High Cost
+81,0,Low Cost
+82,3,Very High Cost
+83,3,Very High Cost
+84,0,Low Cost
+85,3,Very High Cost
+86,0,Low Cost
+87,2,High Cost
+88,1,Medium Cost
+89,3,Very High Cost
+90,0,Low Cost
+91,1,Medium Cost
+92,1,Medium Cost
+93,2,High Cost
+94,1,Medium Cost
+95,2,High Cost
+96,1,Medium Cost
+97,0,Low Cost
+98,2,High Cost
+99,1,Medium Cost
+100,3,Very High Cost
+101,1,Medium Cost
+102,0,Low Cost
+103,0,Low Cost
+104,3,Very High Cost
+105,1,Medium Cost
+106,2,High Cost
+107,1,Medium Cost
+108,1,Medium Cost
+109,2,High Cost
+110,3,Very High Cost
+111,3,Very High Cost
+112,2,High Cost
+113,1,Medium Cost
+114,3,Very High Cost
+115,3,Very High Cost
+116,3,Very High Cost
+117,3,Very High Cost
+118,2,High Cost
+119,3,Very High Cost
+120,1,Medium Cost
+121,0,Low Cost
+122,3,Very High Cost
+123,2,High Cost
+124,1,Medium Cost
+125,2,High Cost
+126,1,Medium Cost
+127,3,Very High Cost
+128,2,High Cost
+129,3,Very High Cost
+130,1,Medium Cost
+131,0,Low Cost
+132,2,High Cost
+133,1,Medium Cost
+134,1,Medium Cost
+135,3,Very High Cost
+136,1,Medium Cost
+137,1,Medium Cost
+138,0,Low Cost
+139,3,Very High Cost
+140,2,High Cost
+141,1,Medium Cost
+142,2,High Cost
+143,1,Medium Cost
+144,2,High Cost
+145,2,High Cost
+146,3,Very High Cost
+147,3,Very High Cost
+148,3,Very High Cost
+149,2,High Cost
+150,3,Very High Cost
+151,2,High Cost
+152,3,Very High Cost
+153,0,Low Cost
+154,0,Low Cost
+155,3,Very High Cost
+156,2,High Cost
+157,3,Very High Cost
+158,3,Very High Cost
+159,2,High Cost
+160,3,Very High Cost
+161,3,Very High Cost
+162,2,High Cost
+163,3,Very High Cost
+164,3,Very High Cost
+165,3,Very High Cost
+166,3,Very High Cost
+167,1,Medium Cost
+168,0,Low Cost
+169,3,Very High Cost
+170,0,Low Cost
+171,0,Low Cost
+172,0,Low Cost
+173,1,Medium Cost
+174,1,Medium Cost
+175,0,Low Cost
+176,1,Medium Cost
+177,0,Low Cost
+178,0,Low Cost
+179,1,Medium Cost
+180,2,High Cost
+181,1,Medium Cost
+182,0,Low Cost
+183,0,Low Cost
+184,1,Medium Cost
+185,1,Medium Cost
+186,2,High Cost
+187,2,High Cost
+188,1,Medium Cost
+189,0,Low Cost
+190,0,Low Cost
+191,0,Low Cost
+192,1,Medium Cost
+193,1,Medium Cost
+194,3,Very High Cost
+195,1,Medium Cost
+196,0,Low Cost
+197,2,High Cost
+198,2,High Cost
+199,2,High Cost
+200,2,High Cost
+201,1,Medium Cost
+202,2,High Cost
+203,3,Very High Cost
+204,3,Very High Cost
+205,2,High Cost
+206,2,High Cost
+207,1,Medium Cost
+208,1,Medium Cost
+209,0,Low Cost
+210,0,Low Cost
+211,1,Medium Cost
+212,3,Very High Cost
+213,0,Low Cost
+214,3,Very High Cost
+215,3,Very High Cost
+216,3,Very High Cost
+217,0,Low Cost
+218,2,High Cost
+219,0,Low Cost
+220,3,Very High Cost
+221,2,High Cost
+222,3,Very High Cost
+223,3,Very High Cost
+224,1,Medium Cost
+225,0,Low Cost
+226,1,Medium Cost
+227,0,Low Cost
+228,3,Very High Cost
+229,0,Low Cost
+230,1,Medium Cost
+231,0,Low Cost
+232,2,High Cost
+233,2,High Cost
+234,1,Medium Cost
+235,2,High Cost
+236,1,Medium Cost
+237,2,High Cost
+238,0,Low Cost
+239,3,Very High Cost
+240,1,Medium Cost
+241,2,High Cost
+242,0,Low Cost
+243,0,Low Cost
+244,2,High Cost
+245,1,Medium Cost
+246,2,High Cost
+247,2,High Cost
+248,3,Very High Cost
+249,1,Medium Cost
+250,1,Medium Cost
+251,3,Very High Cost
+252,0,Low Cost
+253,0,Low Cost
+254,2,High Cost
+255,3,Very High Cost
+256,3,Very High Cost
+257,1,Medium Cost
+258,3,Very High Cost
+259,1,Medium Cost
+260,1,Medium Cost
+261,3,Very High Cost
+262,2,High Cost
+263,1,Medium Cost
+264,2,High Cost
+265,3,Very High Cost
+266,3,Very High Cost
+267,3,Very High Cost
+268,1,Medium Cost
+269,0,Low Cost
+270,1,Medium Cost
+271,2,High Cost
+272,3,Very High Cost
+273,1,Medium Cost
+274,1,Medium Cost
+275,3,Very High Cost
+276,2,High Cost
+277,0,Low Cost
+278,3,Very High Cost
+279,0,Low Cost
+280,1,Medium Cost
+281,2,High Cost
+282,0,Low Cost
+283,0,Low Cost
+284,3,Very High Cost
+285,2,High Cost
+286,3,Very High Cost
+287,3,Very High Cost
+288,2,High Cost
+289,1,Medium Cost
+290,3,Very High Cost
+291,3,Very High Cost
+292,2,High Cost
+293,3,Very High Cost
+294,1,Medium Cost
+295,2,High Cost
+296,1,Medium Cost
+297,2,High Cost
+298,0,Low Cost
+299,3,Very High Cost
+300,3,Very High Cost
+301,1,Medium Cost
+302,0,Low Cost
+303,0,Low Cost
+304,3,Very High Cost
+305,0,Low Cost
+306,3,Very High Cost
+307,1,Medium Cost
+308,1,Medium Cost
+309,2,High Cost
+310,0,Low Cost
+311,2,High Cost
+312,2,High Cost
+313,1,Medium Cost
+314,3,Very High Cost
+315,2,High Cost
+316,2,High Cost
+317,1,Medium Cost
+318,2,High Cost
+319,0,Low Cost
+320,0,Low Cost
+321,0,Low Cost
+322,1,Medium Cost
+323,3,Very High Cost
+324,2,High Cost
+325,0,Low Cost
+326,1,Medium Cost
+327,0,Low Cost
+328,3,Very High Cost
+329,1,Medium Cost
+330,0,Low Cost
+331,3,Very High Cost
+332,3,Very High Cost
+333,1,Medium Cost
+334,2,High Cost
+335,3,Very High Cost
+336,2,High Cost
+337,3,Very High Cost
+338,1,Medium Cost
+339,3,Very High Cost
+340,3,Very High Cost
+341,2,High Cost
+342,2,High Cost
+343,2,High Cost
+344,2,High Cost
+345,3,Very High Cost
+346,1,Medium Cost
+347,3,Very High Cost
+348,0,Low Cost
+349,3,Very High Cost
+350,1,Medium Cost
+351,3,Very High Cost
+352,1,Medium Cost
+353,2,High Cost
+354,3,Very High Cost
+355,0,Low Cost
+356,2,High Cost
+357,1,Medium Cost
+358,3,Very High Cost
+359,1,Medium Cost
+360,3,Very High Cost
+361,2,High Cost
+362,3,Very High Cost
+363,0,Low Cost
+364,0,Low Cost
+365,1,Medium Cost
+366,1,Medium Cost
+367,1,Medium Cost
+368,0,Low Cost
+369,0,Low Cost
+370,2,High Cost
+371,2,High Cost
+372,1,Medium Cost
+373,2,High Cost
+374,2,High Cost
+375,2,High Cost
+376,0,Low Cost
+377,1,Medium Cost
+378,0,Low Cost
+379,0,Low Cost
+380,3,Very High Cost
+381,2,High Cost
+382,0,Low Cost
+383,3,Very High Cost
+384,1,Medium Cost
+385,2,High Cost
+386,2,High Cost
+387,1,Medium Cost
+388,2,High Cost
+389,3,Very High Cost
+390,1,Medium Cost
+391,1,Medium Cost
+392,2,High Cost
+393,2,High Cost
+394,1,Medium Cost
+395,2,High Cost
+396,0,Low Cost
+397,1,Medium Cost
+398,1,Medium Cost
+399,0,Low Cost
+400,3,Very High Cost
+401,2,High Cost
+402,1,Medium Cost
+403,0,Low Cost
+404,1,Medium Cost
+405,0,Low Cost
+406,0,Low Cost
+407,1,Medium Cost
+408,1,Medium Cost
+409,0,Low Cost
+410,0,Low Cost
+411,0,Low Cost
+412,2,High Cost
+413,2,High Cost
+414,3,Very High Cost
+415,1,Medium Cost
+416,3,Very High Cost
+417,0,Low Cost
+418,3,Very High Cost
+419,0,Low Cost
+420,3,Very High Cost
+421,0,Low Cost
+422,1,Medium Cost
+423,1,Medium Cost
+424,0,Low Cost
+425,1,Medium Cost
+426,0,Low Cost
+427,3,Very High Cost
+428,2,High Cost
+429,3,Very High Cost
+430,3,Very High Cost
+431,1,Medium Cost
+432,3,Very High Cost
+433,1,Medium Cost
+434,2,High Cost
+435,1,Medium Cost
+436,2,High Cost
+437,2,High Cost
+438,0,Low Cost
+439,1,Medium Cost
+440,2,High Cost
+441,1,Medium Cost
+442,2,High Cost
+443,0,Low Cost
+444,0,Low Cost
+445,0,Low Cost
+446,1,Medium Cost
+447,2,High Cost
+448,1,Medium Cost
+449,0,Low Cost
+450,3,Very High Cost
+451,1,Medium Cost
+452,0,Low Cost
+453,2,High Cost
+454,3,Very High Cost
+455,0,Low Cost
+456,0,Low Cost
+457,3,Very High Cost
+458,1,Medium Cost
+459,1,Medium Cost
+460,1,Medium Cost
+461,2,High Cost
+462,2,High Cost
+463,3,Very High Cost
+464,0,Low Cost
+465,3,Very High Cost
+466,0,Low Cost
+467,2,High Cost
+468,3,Very High Cost
+469,2,High Cost
+470,3,Very High Cost
+471,0,Low Cost
+472,2,High Cost
+473,0,Low Cost
+474,2,High Cost
+475,3,Very High Cost
+476,0,Low Cost
+477,1,Medium Cost
+478,1,Medium Cost
+479,0,Low Cost
+480,0,Low Cost
+481,1,Medium Cost
+482,1,Medium Cost
+483,1,Medium Cost
+484,2,High Cost
+485,3,Very High Cost
+486,3,Very High Cost
+487,2,High Cost
+488,3,Very High Cost
+489,1,Medium Cost
+490,2,High Cost
+491,2,High Cost
+492,2,High Cost
+493,3,Very High Cost
+494,3,Very High Cost
+495,2,High Cost
+496,0,Low Cost
+497,2,High Cost
+498,1,Medium Cost
+499,2,High Cost
+500,2,High Cost
+501,1,Medium Cost
+502,0,Low Cost
+503,2,High Cost
+504,2,High Cost
+505,0,Low Cost
+506,0,Low Cost
+507,0,Low Cost
+508,3,Very High Cost
+509,1,Medium Cost
+510,0,Low Cost
+511,2,High Cost
+512,2,High Cost
+513,2,High Cost
+514,0,Low Cost
+515,3,Very High Cost
+516,1,Medium Cost
+517,2,High Cost
+518,2,High Cost
+519,1,Medium Cost
+520,3,Very High Cost
+521,0,Low Cost
+522,2,High Cost
+523,3,Very High Cost
+524,0,Low Cost
+525,1,Medium Cost
+526,1,Medium Cost
+527,3,Very High Cost
+528,3,Very High Cost
+529,1,Medium Cost
+530,1,Medium Cost
+531,2,High Cost
+532,3,Very High Cost
+533,2,High Cost
+534,0,Low Cost
+535,2,High Cost
+536,1,Medium Cost
+537,2,High Cost
+538,0,Low Cost
+539,3,Very High Cost
+540,3,Very High Cost
+541,1,Medium Cost
+542,3,Very High Cost
+543,2,High Cost
+544,2,High Cost
+545,3,Very High Cost
+546,0,Low Cost
+547,1,Medium Cost
+548,2,High Cost
+549,3,Very High Cost
+550,1,Medium Cost
+551,3,Very High Cost
+552,2,High Cost
+553,3,Very High Cost
+554,1,Medium Cost
+555,1,Medium Cost
+556,0,Low Cost
+557,1,Medium Cost
+558,3,Very High Cost
+559,2,High Cost
+560,0,Low Cost
+561,3,Very High Cost
+562,2,High Cost
+563,3,Very High Cost
+564,2,High Cost
+565,1,Medium Cost
+566,3,Very High Cost
+567,3,Very High Cost
+568,3,Very High Cost
+569,2,High Cost
+570,3,Very High Cost
+571,2,High Cost
+572,1,Medium Cost
+573,1,Medium Cost
+574,0,Low Cost
+575,2,High Cost
+576,2,High Cost
+577,3,Very High Cost
+578,1,Medium Cost
+579,0,Low Cost
+580,1,Medium Cost
+581,1,Medium Cost
+582,2,High Cost
+583,2,High Cost
+584,2,High Cost
+585,0,Low Cost
+586,0,Low Cost
+587,2,High Cost
+588,2,High Cost
+589,3,Very High Cost
+590,2,High Cost
+591,0,Low Cost
+592,2,High Cost
+593,0,Low Cost
+594,3,Very High Cost
+595,3,Very High Cost
+596,0,Low Cost
+597,1,Medium Cost
+598,3,Very High Cost
+599,1,Medium Cost
+600,2,High Cost
+601,1,Medium Cost
+602,1,Medium Cost
+603,0,Low Cost
+604,0,Low Cost
+605,2,High Cost
+606,1,Medium Cost
+607,0,Low Cost
+608,0,Low Cost
+609,2,High Cost
+610,2,High Cost
+611,2,High Cost
+612,0,Low Cost
+613,2,High Cost
+614,2,High Cost
+615,1,Medium Cost
+616,0,Low Cost
+617,3,Very High Cost
+618,0,Low Cost
+619,0,Low Cost
+620,3,Very High Cost
+621,2,High Cost
+622,0,Low Cost
+623,0,Low Cost
+624,1,Medium Cost
+625,0,Low Cost
+626,0,Low Cost
+627,3,Very High Cost
+628,0,Low Cost
+629,3,Very High Cost
+630,1,Medium Cost
+631,3,Very High Cost
+632,1,Medium Cost
+633,1,Medium Cost
+634,3,Very High Cost
+635,2,High Cost
+636,0,Low Cost
+637,2,High Cost
+638,1,Medium Cost
+639,2,High Cost
+640,2,High Cost
+641,3,Very High Cost
+642,2,High Cost
+643,1,Medium Cost
+644,3,Very High Cost
+645,0,Low Cost
+646,2,High Cost
+647,0,Low Cost
+648,2,High Cost
+649,0,Low Cost
+650,0,Low Cost
+651,1,Medium Cost
+652,1,Medium Cost
+653,1,Medium Cost
+654,2,High Cost
+655,1,Medium Cost
+656,2,High Cost
+657,1,Medium Cost
+658,3,Very High Cost
+659,2,High Cost
+660,1,Medium Cost
+661,1,Medium Cost
+662,3,Very High Cost
+663,2,High Cost
+664,0,Low Cost
+665,1,Medium Cost
+666,2,High Cost
+667,0,Low Cost
+668,3,Very High Cost
+669,3,Very High Cost
+670,0,Low Cost
+671,2,High Cost
+672,1,Medium Cost
+673,1,Medium Cost
+674,2,High Cost
+675,0,Low Cost
+676,3,Very High Cost
+677,2,High Cost
+678,0,Low Cost
+679,3,Very High Cost
+680,2,High Cost
+681,3,Very High Cost
+682,0,Low Cost
+683,0,Low Cost
+684,3,Very High Cost
+685,0,Low Cost
+686,1,Medium Cost
+687,2,High Cost
+688,3,Very High Cost
+689,2,High Cost
+690,2,High Cost
+691,2,High Cost
+692,3,Very High Cost
+693,0,Low Cost
+694,2,High Cost
+695,3,Very High Cost
+696,0,Low Cost
+697,1,Medium Cost
+698,1,Medium Cost
+699,2,High Cost
+700,2,High Cost
+701,2,High Cost
+702,0,Low Cost
+703,0,Low Cost
+704,1,Medium Cost
+705,0,Low Cost
+706,0,Low Cost
+707,2,High Cost
+708,0,Low Cost
+709,1,Medium Cost
+710,2,High Cost
+711,0,Low Cost
+712,1,Medium Cost
+713,0,Low Cost
+714,1,Medium Cost
+715,3,Very High Cost
+716,0,Low Cost
+717,3,Very High Cost
+718,2,High Cost
+719,3,Very High Cost
+720,0,Low Cost
+721,0,Low Cost
+722,1,Medium Cost
+723,2,High Cost
+724,2,High Cost
+725,2,High Cost
+726,0,Low Cost
+727,1,Medium Cost
+728,1,Medium Cost
+729,0,Low Cost
+730,2,High Cost
+731,1,Medium Cost
+732,0,Low Cost
+733,0,Low Cost
+734,3,Very High Cost
+735,3,Very High Cost
+736,0,Low Cost
+737,3,Very High Cost
+738,1,Medium Cost
+739,2,High Cost
+740,3,Very High Cost
+741,0,Low Cost
+742,1,Medium Cost
+743,0,Low Cost
+744,2,High Cost
+745,2,High Cost
+746,0,Low Cost
+747,3,Very High Cost
+748,1,Medium Cost
+749,0,Low Cost
+750,3,Very High Cost
+751,1,Medium Cost
+752,1,Medium Cost
+753,0,Low Cost
+754,2,High Cost
+755,3,Very High Cost
+756,3,Very High Cost
+757,2,High Cost
+758,3,Very High Cost
+759,0,Low Cost
+760,3,Very High Cost
+761,2,High Cost
+762,0,Low Cost
+763,1,Medium Cost
+764,0,Low Cost
+765,3,Very High Cost
+766,3,Very High Cost
+767,2,High Cost
+768,0,Low Cost
+769,2,High Cost
+770,1,Medium Cost
+771,2,High Cost
+772,0,Low Cost
+773,0,Low Cost
+774,2,High Cost
+775,2,High Cost
+776,0,Low Cost
+777,2,High Cost
+778,1,Medium Cost
+779,2,High Cost
+780,1,Medium Cost
+781,2,High Cost
+782,1,Medium Cost
+783,3,Very High Cost
+784,2,High Cost
+785,1,Medium Cost
+786,1,Medium Cost
+787,2,High Cost
+788,1,Medium Cost
+789,0,Low Cost
+790,2,High Cost
+791,2,High Cost
+792,0,Low Cost
+793,2,High Cost
+794,0,Low Cost
+795,0,Low Cost
+796,0,Low Cost
+797,0,Low Cost
+798,3,Very High Cost
+799,3,Very High Cost
+800,3,Very High Cost
+801,3,Very High Cost
+802,0,Low Cost
+803,1,Medium Cost
+804,1,Medium Cost
+805,1,Medium Cost
+806,1,Medium Cost
+807,0,Low Cost
+808,0,Low Cost
+809,2,High Cost
+810,1,Medium Cost
+811,0,Low Cost
+812,2,High Cost
+813,0,Low Cost
+814,2,High Cost
+815,2,High Cost
+816,2,High Cost
+817,1,Medium Cost
+818,2,High Cost
+819,0,Low Cost
+820,1,Medium Cost
+821,1,Medium Cost
+822,3,Very High Cost
+823,0,Low Cost
+824,0,Low Cost
+825,3,Very High Cost
+826,1,Medium Cost
+827,2,High Cost
+828,0,Low Cost
+829,0,Low Cost
+830,2,High Cost
+831,3,Very High Cost
+832,3,Very High Cost
+833,0,Low Cost
+834,3,Very High Cost
+835,2,High Cost
+836,1,Medium Cost
+837,0,Low Cost
+838,0,Low Cost
+839,2,High Cost
+840,3,Very High Cost
+841,1,Medium Cost
+842,3,Very High Cost
+843,0,Low Cost
+844,0,Low Cost
+845,0,Low Cost
+846,2,High Cost
+847,2,High Cost
+848,1,Medium Cost
+849,2,High Cost
+850,0,Low Cost
+851,3,Very High Cost
+852,3,Very High Cost
+853,1,Medium Cost
+854,2,High Cost
+855,3,Very High Cost
+856,3,Very High Cost
+857,0,Low Cost
+858,1,Medium Cost
+859,1,Medium Cost
+860,2,High Cost
+861,1,Medium Cost
+862,2,High Cost
+863,2,High Cost
+864,0,Low Cost
+865,1,Medium Cost
+866,3,Very High Cost
+867,1,Medium Cost
+868,1,Medium Cost
+869,3,Very High Cost
+870,0,Low Cost
+871,2,High Cost
+872,3,Very High Cost
+873,2,High Cost
+874,1,Medium Cost
+875,1,Medium Cost
+876,1,Medium Cost
+877,3,Very High Cost
+878,3,Very High Cost
+879,0,Low Cost
+880,2,High Cost
+881,3,Very High Cost
+882,0,Low Cost
+883,2,High Cost
+884,3,Very High Cost
+885,2,High Cost
+886,3,Very High Cost
+887,2,High Cost
+888,3,Very High Cost
+889,2,High Cost
+890,0,Low Cost
+891,1,Medium Cost
+892,2,High Cost
+893,1,Medium Cost
+894,2,High Cost
+895,1,Medium Cost
+896,1,Medium Cost
+897,2,High Cost
+898,2,High Cost
+899,2,High Cost
+900,1,Medium Cost
+901,2,High Cost
+902,1,Medium Cost
+903,1,Medium Cost
+904,1,Medium Cost
+905,3,Very High Cost
+906,1,Medium Cost
+907,0,Low Cost
+908,1,Medium Cost
+909,2,High Cost
+910,3,Very High Cost
+911,1,Medium Cost
+912,0,Low Cost
+913,0,Low Cost
+914,3,Very High Cost
+915,2,High Cost
+916,2,High Cost
+917,3,Very High Cost
+918,0,Low Cost
+919,3,Very High Cost
+920,2,High Cost
+921,2,High Cost
+922,1,Medium Cost
+923,3,Very High Cost
+924,1,Medium Cost
+925,1,Medium Cost
+926,3,Very High Cost
+927,1,Medium Cost
+928,1,Medium Cost
+929,1,Medium Cost
+930,2,High Cost
+931,3,Very High Cost
+932,2,High Cost
+933,0,Low Cost
+934,3,Very High Cost
+935,1,Medium Cost
+936,2,High Cost
+937,3,Very High Cost
+938,0,Low Cost
+939,2,High Cost
+940,2,High Cost
+941,3,Very High Cost
+942,3,Very High Cost
+943,1,Medium Cost
+944,0,Low Cost
+945,2,High Cost
+946,3,Very High Cost
+947,1,Medium Cost
+948,0,Low Cost
+949,2,High Cost
+950,1,Medium Cost
+951,2,High Cost
+952,1,Medium Cost
+953,2,High Cost
+954,0,Low Cost
+955,2,High Cost
+956,2,High Cost
+957,0,Low Cost
+958,2,High Cost
+959,3,Very High Cost
+960,2,High Cost
+961,3,Very High Cost
+962,0,Low Cost
+963,2,High Cost
+964,1,Medium Cost
+965,1,Medium Cost
+966,2,High Cost
+967,2,High Cost
+968,3,Very High Cost
+969,3,Very High Cost
+970,0,Low Cost
+971,2,High Cost
+972,1,Medium Cost
+973,2,High Cost
+974,1,Medium Cost
+975,3,Very High Cost
+976,0,Low Cost
+977,0,Low Cost
+978,3,Very High Cost
+979,0,Low Cost
+980,2,High Cost
+981,0,Low Cost
+982,0,Low Cost
+983,3,Very High Cost
+984,2,High Cost
+985,2,High Cost
+986,0,Low Cost
+987,0,Low Cost
+988,0,Low Cost
+989,0,Low Cost
+990,3,Very High Cost
+991,2,High Cost
+992,3,Very High Cost
+993,3,Very High Cost
+994,0,Low Cost
+995,0,Low Cost
+996,2,High Cost
+997,1,Medium Cost
+998,1,Medium Cost
+999,2,High Cost
+1000,2,High Cost
